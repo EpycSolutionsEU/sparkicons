@@ -1,0 +1,12 @@
+{
+    "name": "sparkicons",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/EpycSolutionsEU/sparkicons.git"
+    },
+    "scripts": {},
+    "devDependencies": {
+        "turbo": "2.2.3"
+    }
+}
